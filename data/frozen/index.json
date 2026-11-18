@@ -1,0 +1,316 @@
+{
+  "128193913_s92": {
+    "accessed": "2026-07-28T01:42:32Z",
+    "baseline_days": 25.572,
+    "n_cadences": 15518,
+    "sectors_got": [
+      92
+    ],
+    "sectors_requested": [
+      92
+    ],
+    "sha256": "5a8b921a78a11a121526c6a4ab6acba23ce9385764a246cc3e94cd9b155ff45a",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 128193913
+  },
+  "14069011_s92": {
+    "accessed": "2026-07-28T01:42:33Z",
+    "baseline_days": 25.085,
+    "n_cadences": 15572,
+    "sectors_got": [
+      92
+    ],
+    "sectors_requested": [
+      92
+    ],
+    "sha256": "6665fca03fbe1f748738352ba042872d551bafe95dd92b11dd6bc1d5e0578c4b",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 14069011
+  },
+  "213076699_s98": {
+    "accessed": "2026-07-28T01:42:34Z",
+    "baseline_days": 51.447,
+    "n_cadences": 24312,
+    "sectors_got": [
+      98
+    ],
+    "sectors_requested": [
+      98
+    ],
+    "sha256": "253e82b90a40d753ec31f824d9ee97ac588738dee31e789df841feda3db2a785",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 213076699
+  },
+  "220481009_s87-88-89-94-95-96": {
+    "accessed": "2026-10-29T17:40:00Z",
+    "baseline_days": 266.943,
+    "n_cadences": 94256,
+    "sectors_got": [
+      87,
+      88,
+      89,
+      94,
+      95,
+      96
+    ],
+    "sectors_requested": [
+      87,
+      88,
+      89,
+      94,
+      95,
+      96
+    ],
+    "sha256": "165b3a08ff3ea62c5c5b6d0c6cef956b030b33d1ed682f121eada886e247f2a6",
+    "source": "MAST TESS SPOC 2-min archival multi-cycle",
+    "tic": 220481009
+  },
+  "220481009_s94-95-96": {
+    "accessed": "2026-07-28T01:42:41Z",
+    "baseline_days": 75.779,
+    "n_cadences": 44056,
+    "sectors_got": [
+      94,
+      95,
+      96
+    ],
+    "sectors_requested": [
+      94,
+      95,
+      96
+    ],
+    "sha256": "f388b72a9c45b3f62cc0e556fb59547ec1039a72df1b56933a4feeca1920f4ad",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 220481009
+  },
+  "261335113_s95": {
+    "accessed": "2026-07-28T01:42:36Z",
+    "baseline_days": 23.411,
+    "n_cadences": 14604,
+    "sectors_got": [
+      95
+    ],
+    "sectors_requested": [
+      95
+    ],
+    "sha256": "27fc835fb79802dfc348de31035be9870569951d482f024aa9203ef4d8814ea5",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 261335113
+  },
+  "293791446_s102": {
+    "accessed": "2026-07-28T01:42:37Z",
+    "baseline_days": 23.879,
+    "n_cadences": 15610,
+    "sectors_got": [
+      102
+    ],
+    "sectors_requested": [
+      102
+    ],
+    "sha256": "59c96e560bd6629b56174f4220eaae0d4a6ea44017d2b02f717914fbe3928df0",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 293791446
+  },
+  "3990402_s97": {
+    "accessed": "2026-07-28T01:42:48Z",
+    "baseline_days": 51.829,
+    "n_cadences": 28539,
+    "sectors_got": [
+      97
+    ],
+    "sectors_requested": [
+      97
+    ],
+    "sha256": "6dd2c3a0cee57a1a4fb284d98ec0fef07376bda15a08ed4491806101a8e21613",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 3990402
+  },
+  "404927661_s95": {
+    "accessed": "2026-07-28T01:42:39Z",
+    "baseline_days": 23.778,
+    "n_cadences": 15116,
+    "sectors_got": [
+      95
+    ],
+    "sectors_requested": [
+      95
+    ],
+    "sha256": "7123b2bd1ca26842e95e53d175c314cac3a85323f45584ea3fac35408cd37f68",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 404927661
+  },
+  "4070682_s98": {
+    "accessed": "2026-07-28T01:42:49Z",
+    "baseline_days": 52.036,
+    "n_cadences": 26451,
+    "sectors_got": [
+      98
+    ],
+    "sectors_requested": [
+      98
+    ],
+    "sha256": "86de332073368aa0964adc5000691d29b841fcc607660a290cdeef3e061c9ffa",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 4070682
+  },
+  "4124879_s92": {
+    "accessed": "2026-07-28T01:42:50Z",
+    "baseline_days": 25.509,
+    "n_cadences": 15294,
+    "sectors_got": [
+      92
+    ],
+    "sectors_requested": [
+      92
+    ],
+    "sha256": "0b2e3a3033c750ec9d4667ae428bc788be5ae7e41cdbfe25fd5ec65a36193dc0",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 4124879
+  },
+  "4207747_s98": {
+    "accessed": "2026-07-28T01:42:52Z",
+    "baseline_days": 52.354,
+    "n_cadences": 27211,
+    "sectors_got": [
+      98
+    ],
+    "sectors_requested": [
+      98
+    ],
+    "sha256": "dcdc68c6153b79ced51692628ee356b2fd6c055560b5e0f9cb8f66b56e94fffb",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 4207747
+  },
+  "615133_s98": {
+    "accessed": "2026-07-28T01:42:47Z",
+    "baseline_days": 57.372,
+    "n_cadences": 26531,
+    "sectors_got": [
+      98
+    ],
+    "sectors_requested": [
+      98
+    ],
+    "sha256": "7cb8a27c521e2c09daa76e75e105d991053eae1198672394d6b43d69392db22e",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 615133
+  },
+  "6286534_s94": {
+    "accessed": "2026-07-28T01:42:42Z",
+    "baseline_days": 24.22,
+    "n_cadences": 15339,
+    "sectors_got": [
+      94
+    ],
+    "sectors_requested": [
+      94
+    ],
+    "sha256": "fdfe09b197e143eb0269f400205489e086ba87b64de3b478e713039d59702f7e",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 6286534
+  },
+  "6288424_s94": {
+    "accessed": "2026-07-28T01:42:43Z",
+    "baseline_days": 24.133,
+    "n_cadences": 15278,
+    "sectors_got": [
+      94
+    ],
+    "sectors_requested": [
+      94
+    ],
+    "sha256": "85d4374975a2cd5dda86a67f04f95f40fda54b575a8c466031f0d662ba4040a4",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 6288424
+  },
+  "6350228_s94": {
+    "accessed": "2026-07-28T01:42:45Z",
+    "baseline_days": 24.105,
+    "n_cadences": 15242,
+    "sectors_got": [
+      94
+    ],
+    "sectors_requested": [
+      94
+    ],
+    "sha256": "615a57cd8d76f24bb0d4d0db25bc5c4fdfb02008a6ad9bd9420d10e7bed9d40f",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 6350228
+  },
+  "6402381_s94": {
+    "accessed": "2026-07-28T01:42:46Z",
+    "baseline_days": 24.22,
+    "n_cadences": 15334,
+    "sectors_got": [
+      94
+    ],
+    "sectors_requested": [
+      94
+    ],
+    "sha256": "b324180c1045d91ae9341333eddaa71a4d0944ce28f3eb12de0f1c36548a209a",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 6402381
+  },
+  "6404965_s94": {
+    "accessed": "2026-07-28T01:42:54Z",
+    "baseline_days": 24.104,
+    "n_cadences": 15237,
+    "sectors_got": [
+      94
+    ],
+    "sectors_requested": [
+      94
+    ],
+    "sha256": "ea72e222aab721ce926fb3227ba1c2b02b5ea0876f0b7693663d95369d09045a",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 6404965
+  },
+  "6406215_s94": {
+    "accessed": "2026-07-28T01:42:55Z",
+    "baseline_days": 24.219,
+    "n_cadences": 15337,
+    "sectors_got": [
+      94
+    ],
+    "sectors_requested": [
+      94
+    ],
+    "sha256": "e6e794bbc8c43cb2fe6cff053594708d85cb503d4785eb3897616b37ac82480a",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 6406215
+  },
+  "6406550_s94": {
+    "accessed": "2026-07-28T01:42:56Z",
+    "baseline_days": 24.22,
+    "n_cadences": 15340,
+    "sectors_got": [
+      94
+    ],
+    "sectors_requested": [
+      94
+    ],
+    "sha256": "6bf65dfd76d3f2fc356c6dd8b96dde6d885365671c4e2d2746c35db9e14cab56",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 6406550
+  },
+  "7219876_s97": {
+    "accessed": "2026-07-28T01:42:53Z",
+    "baseline_days": 51.834,
+    "n_cadences": 28566,
+    "sectors_got": [
+      97
+    ],
+    "sectors_requested": [
+      97
+    ],
+    "sha256": "a133cf3a4b1493831805a0eb63826ba19afd186247bf25fd8ffa39186acf0c4b",
+    "source": "MAST TESS SPOC 2-min via lightkurve",
+    "tic": 7219876
+  },
+  "sech2_lc_329089161": {
+    "n_points": 140,
+    "sha256": "e351f29cf74a83cf09b71e16c5f97ad61c28e836a290015c9f540e1ed4de60fd",
+    "source": "derived from MAST TESS SPOC 2-min photometry: phase-folded at P=2.5373 d, binned to 140 points",
+    "tic": 329089161
+  }
+}

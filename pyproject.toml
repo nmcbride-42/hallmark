@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hallmark"
+version = "0.1.0"
+description = "Fail-closed verification for LLM-proposed scientific analyses over frozen public astronomy data"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Nick McBride" }]
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.10",
+]
+
+[project.optional-dependencies]
+fetch = ["lightkurve>=2.4"]
+llm = ["anthropic"]
+dev = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+include = ["hallmark*", "suites*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "network: calls public astronomy APIs (skipped unless --run-network)",
+    "slow: full end-to-end validation (skipped unless --run-slow)",
+]

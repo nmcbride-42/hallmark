@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+build/
+dist/
+
+# Local configuration
+.env
+
+# Runtime state and downloads
+data/cache/
+data/hallmark.db*
+data/probe_set/*.npz
+*.log
